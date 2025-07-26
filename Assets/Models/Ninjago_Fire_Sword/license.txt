@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ninjago Sword of Fire
+* source:	https://sketchfab.com/3d-models/ninjago-sword-of-fire-5a662b89651f46e1a9e3c3b57a8524a0
+* author:	zytrixx (https://sketchfab.com/zytrixx)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ninjago Sword of Fire" (https://sketchfab.com/3d-models/ninjago-sword-of-fire-5a662b89651f46e1a9e3c3b57a8524a0) by zytrixx (https://sketchfab.com/zytrixx) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
