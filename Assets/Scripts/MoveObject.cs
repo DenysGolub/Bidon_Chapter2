@@ -15,7 +15,7 @@ public class MoveObject : MonoBehaviour
 
     void Update()
     {
-        Vector3 normalizedDirection = (directionB - directionA).normalized * Time.deltaTime;
+        Vector3 normalizedDirection = (directionB - transform.position).normalized * Time.deltaTime;
         Debug.Log(normalizedDirection);
         transform.position += normalizedDirection;
     }
